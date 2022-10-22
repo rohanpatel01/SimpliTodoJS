@@ -82,8 +82,6 @@ function createGroup()
 
         // events section
 
-
-
         // append all newly created divs to 
 
 
